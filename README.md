@@ -49,8 +49,8 @@ cow: 1
 💾 The processed output video is saved as output_detected.mp4, showcasing all detections over time.
 
 💻 Source code
-GitHub repo: <your GitHub URL here>
-(I’ve included the full pipeline: video reading, YOLO inference, drawing bounding boxes, stats aggregation, and video writing.)
+GitHub repo: https://github.com/AshcharyaR/YOLO-based-object-detection-pipeline/tree/main
+This repository contains the complete pipeline: video input handling, frame extraction, YOLO inference, drawing bounding boxes and labels, aggregation of detection statistics, and writing the final annotated video.
 
 🔍 Next steps: optimizing FPS, experimenting with different YOLO variants, and testing on custom datasets for domain-specific use cases like traffic analytics and surveillance.
 
